@@ -1,0 +1,183 @@
+AT0_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, SFTPB, SCGB3A2, SFTA2
+
+AT1_marker:
+FXYD3, EPCAM, ELF3, HOPX, SFTA2, SLC39A8, CLIC5, SPOCK2, TIMP3
+
+AT2 proliferating_marker:
+FXYD3, EPCAM, ELF3, HOPX, SFTA2, SLC39A8, CENPW, CDKN3, BIRC5
+
+AT2_marker:
+FXYD3, EPCAM, ELF3, HOPX, SFTA2, SLC39A8, MFSD2A, C8orf4, C11orf96
+
+Adventitial fibroblasts_marker:
+COL1A2, DCN, MFAP4, LUM, COL6A3, CFD, MFAP5, SCARA5, PI16
+
+Alveolar Mph CCL3+_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, CCL20, FAM89A
+
+Alveolar Mph MT-positive_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, MT1M, CCL18, MT1E
+
+Alveolar Mph proliferating_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, TYMS, CENPW, MND1
+
+Alveolar fibroblasts_marker:
+COL1A2, DCN, MFAP4, LUM, COL6A3, CFD, SPINT2, LIMCH1, FGFR4
+
+Alveolar macrophages_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, CYP27A1, MARCO, FABP4
+
+B cells_marker:
+CD53, PTPRC, CORO1A, MS4A1
+
+Basal resting_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, KRT15, KRT17, TP63
+
+CD4 T cells_marker:
+CD53, PTPRC, CORO1A, ISG20, CCL5, CD40LG, TNFRSF25, CD28, CD4, TRAT1
+
+CD8 T cells_marker:
+CD53, PTPRC, CORO1A, ISG20, CCL5, CD8A, CD8B, TRGC2
+
+Classical monocytes_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, S100A12, FCN1, RNASE2
+
+Club (nasal)_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, SERPINB3, TCN1, ASRGL1
+
+Club (non-nasal)_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, CYP2F1, SCGB3A1, BPIFB1
+
+DC1_marker:
+CD53, PTPRC, CORO1A, XCR1, CLEC9A, CLNK
+
+DC2_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, PKIB, CLEC10A, CD1E
+
+Deuterosomal_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, CDC20B, KDELC2, E2F7
+
+EC aerocyte capillary_marker:
+CLDN5, ECSCR, CLEC14A, SOSTDC1
+
+EC arterial_marker:
+CLDN5, ECSCR, CLEC14A, DKK2, IGFBP3
+
+EC general capillary_marker:
+CLDN5, ECSCR, CLEC14A, SPARCL1, AQP1, RNASE1, IL7R, FCN3, MT1M
+
+EC venous pulmonary_marker:
+CLDN5, ECSCR, CLEC14A, SPARCL1, AQP1, RNASE1, CPE, C7, MMRN1
+
+EC venous systemic_marker:
+CLDN5, ECSCR, CLEC14A, SPARCL1, AQP1, RNASE1, TPD52L1, ZNF385D, OLFM1
+
+Goblet (bronchial)_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, GPX8, ALDH1A3, CEACAM5
+
+Goblet (nasal)_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, CEACAM5, LYPD2, PSCA
+
+Goblet (subsegmental)_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, BPIFB1, C16orf89, NPDC1
+
+Hematopoietic stem cells_marker:
+CD53, PTPRC, CORO1A, CRHBP, SERPINE2, MAP7
+
+Hillock-like_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, DSG3, RAB38, TNS4
+
+Interstitial Mph perivascular_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, F13A1, FOLR2
+
+Ionocyte_marker:
+FXYD3, EPCAM, ELF3, BSND, IGF1, CLCNKB
+
+Lymphatic EC differentiating_marker:
+CLDN5, ECSCR, CLEC14A, CCL21, TFF3, MMRN1, PROX1, PKHD1L1, FLT4, SEMA3D
+
+Lymphatic EC mature_marker:
+CLDN5, ECSCR, CLEC14A, CCL21, TFF3, MMRN1, LYVE1, CCL21
+
+Lymphatic EC proliferating_marker:
+CLDN5, ECSCR, CLEC14A, MKI67, TOP2A
+
+Mast cells_marker:
+CD53, PTPRC, CORO1A, MS4A2, SLC18A2, RGS13
+
+Mesothelium_marker:
+COL1A2, DCN, MFAP4, KLK11, UPK3B, ITLN1
+
+Migratory DCs_marker:
+CD53, PTPRC, CORO1A, LAD1, CCL19
+
+Monocyte-derived Mph_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, SPP1, HAMP
+
+Multiciliated (nasal)_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, BEST4, LYPD2
+
+Multiciliated (non-nasal)_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, RSPH1, C20orf85, C9orf24
+
+Myofibroblasts_marker:
+COL1A2, DCN, MFAP4, LUM, COL6A3, CFD, LMOD1, ATP1B1, TYRP1
+
+NK cells_marker:
+CD53, PTPRC, CORO1A, ISG20, CCL5, GNLY, SPON2, FCGR3A
+
+Neuroendocrine_marker:
+CELF3, SLC6A17, CDK5R2
+
+Non-classical monocytes_marker:
+CD53, PTPRC, CORO1A, FCER1G, C1orf162, CLEC7A, MTSS1, LILRA5, FCN1
+
+Peribronchial fibroblasts_marker:
+COL1A2, DCN, MFAP4, LUM, COL6A3, CFD, COL15A1, CXCL14, DIO2
+
+Pericytes_marker:
+COL1A2, DCN, MFAP4, LAMC3
+
+Plasma cells_marker:
+CD53, PTPRC, CORO1A, TNFRSF17
+
+Plasmacytoid DCs_marker:
+CD53, PTPRC, CORO1A, SCT, SMPD3, LILRA4
+
+SM activated stress response_marker:
+COL1A2, DCN, MFAP4, MYH11, TINAGL1, PLN, EGR1, FOSB, ATF3
+
+SMG duct_marker:
+FXYD3, EPCAM, ELF3, TCN1, FAM3D, CCL28, MGST1, KRT19, KLF5
+
+SMG mucous_marker:
+FXYD3, EPCAM, ELF3, TCN1, FAM3D, CCL28, BPIFB2, MUC5B, NKX3-1
+
+SMG serous (bronchial)_marker:
+FXYD3, EPCAM, ELF3, TCN1, FAM3D, CCL28, RP11-1143G9.4, S100A1, PRB3
+
+SMG serous (nasal)_marker:
+FXYD3, EPCAM, ELF3, TCN1, FAM3D, CCL28, STATH, ODAM, MUC7
+
+Smooth muscle FAM83D+_marker:
+COL1A2, DCN, MFAP4, FAM83D
+
+Smooth muscle_marker:
+COL1A2, DCN, MFAP4, MYH11, TINAGL1, PLN
+
+Subpleural fibroblasts_marker:
+COL1A2, DCN, MFAP4, LUM, COL6A3, CFD, MARCKSL1, APOC1, MMP23B
+
+Suprabasal_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, KRT5, SERPINB3
+
+T cells proliferating_marker:
+CD53, PTPRC, CORO1A, ISG20, CCL5, CENPW, TK1, MKI67
+
+Tuft_marker:
+FXYD3, EPCAM, ELF3, DAB1
+
+pre-TB secretory_marker:
+FXYD3, EPCAM, ELF3, IGFBP2, SERPINF1, TSPAN1, SFTPB, RNASE1, SFTA1P
+
